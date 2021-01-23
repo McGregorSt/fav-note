@@ -28,9 +28,6 @@ const App = () => (
         dolor, ipsum consetetur lorem dolor est lorem gubergren dolores, dolor
         justo dolores ipsum et at ipsum ea. Lorem dolor erat justo sanctus ut
         amet invidunt takkasjdkaksjdksjakjdal
-
-
-        GO gogo
       </a>
     </header>
   </div>
